@@ -1,0 +1,3 @@
+/data/cpp_prj/course/build/CMakeFiles/rebuild_cache.dir
+/data/cpp_prj/course/build/CMakeFiles/edit_cache.dir
+/data/cpp_prj/course/build/CMakeFiles/cpptest.dir

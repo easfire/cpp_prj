@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/data/cpp_prj/01-09/MyClass.h
+
+/data/cpp_prj/01-09/goodbye.h
+MyClass.h
+/data/cpp_prj/01-09/MyClass.h
+
+/data/cpp_prj/01-09/hello.h
+MyClass.h
+/data/cpp_prj/01-09/MyClass.h
+
+/data/cpp_prj/01-09/main.cpp
+cstdio
+-
+hello.h
+/data/cpp_prj/01-09/hello.h
+goodbye.h
+/data/cpp_prj/01-09/goodbye.h
+

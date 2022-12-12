@@ -1,0 +1,16 @@
+package main
+
+import "fmt"
+
+type error interface {
+	Error() string
+}
+
+type RPCError struct {
+	Code    int64
+	Message string
+}
+
+func (e *RPCError) Error() string {
+	return fmt.Sprintf("%s, code=%d", e.Message, e.Code)
+}

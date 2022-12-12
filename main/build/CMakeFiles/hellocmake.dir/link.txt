@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/hellocmake.dir/main.cpp.o -o hellocmake  libhellolib.a 

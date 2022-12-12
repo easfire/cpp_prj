@@ -1,0 +1,4 @@
+/data/cpp_prj/01-09/build/CMakeFiles/rebuild_cache.dir
+/data/cpp_prj/01-09/build/CMakeFiles/edit_cache.dir
+/data/cpp_prj/01-09/build/CMakeFiles/a.out.dir
+/data/cpp_prj/01-09/build/CMakeFiles/hellolib.dir
